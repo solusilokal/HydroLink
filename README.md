@@ -3,6 +3,10 @@
 > **Mini Website Jasa Transportasi Kapal Cepat & Terpercaya**  
 > Solusi transportasi laut premium yang menghubungkan antarpulau dengan aman, cepat, dan nyaman.
 
+<p align="center">
+  <img src="public/og-image.png" alt="HydroLink Preview" width="360" style="border-radius: 16px; box-shadow: 0 10px 30px rgba(0,0,0,0.2);" />
+</p>
+
 ---
 
 ## 🌊 Fitur Utama
